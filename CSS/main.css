@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.main_body {
+  padding: 2rem;
+}
+
+.tasks_buttons {
+  padding-top: 1rem;
+}
+
+.tasks_buttons button {
+  margin: 0.2rem;
+}
